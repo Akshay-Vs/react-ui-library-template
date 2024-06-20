@@ -1,0 +1,9 @@
+{
+	"name": "artimis-js",
+	"version": "0.0.1",
+	"description": "A React Component library for building E-Commerce ",
+	"main": "src/index.ts",
+	"author": "Akshay-Vs",
+	"license": "MIT",
+	"private": false
+}
