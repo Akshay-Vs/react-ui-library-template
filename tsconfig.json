@@ -21,15 +21,16 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+    "baseUrl": "./",
     "paths": {
       "artimis": [
-        "./lib/main.ts"
+        "packages/main.ts"
       ]
     }
   },
   "include": [
     "src",
-    "lib"
+    "packages"
   ],
   "references": [
     {
