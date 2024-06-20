@@ -9,7 +9,7 @@ export default defineConfig({
   build: {
     // output entry settings
     lib: {
-      entry: resolve(__dirname, 'lib/main.ts'),
+      entry: resolve(__dirname, 'packages/main.ts'),
       name: 'artimis',
       fileName: 'artimis',
     },
